@@ -27,7 +27,7 @@ I'm passionate about building practical web applications that solve real-world p
 - **Languages**: PHP, Python, JavaScript, HTML, CSS  
 - **Databases**: MySQL  
 - **Tools**: VS Code, Git, GitHub, XAMPP  
-- **Currently Exploring**: Laravel, React, Docker
+- **Currently Exploring**:React, Docker
 
 ---
 
