@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed Mostefaoui
 
-### 💻 Full-Stack Developer | PHP & Python Enthusiast
+### 💻 Backend Developer | PHP & Python Enthusiast
 
 I'm passionate about building practical web applications that solve real-world problems. I focus on backend development using PHP and enjoy automating tasks with Python. I've developed various solutions, from e-commerce systems to school management platforms.
 
