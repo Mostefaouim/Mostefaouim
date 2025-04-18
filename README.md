@@ -11,10 +11,7 @@ I'm passionate about building practical web applications that solve real-world p
 - 🛒 [**OnlineShop**](https://github.com/Mostefaouim/OnlineShop)  
   E-commerce platform built with PHP & MySQL to manage products, orders, and users.
 
-- 🎓 [**SchoolMangement**](https://github.com/Mostefaouim/SchoolMangement)  
-  A school administration tool for handling teachers, students, and classes.
-
-- 🏫 [**Syteme-Ecole**](https://github.com/Mostefaouim/Syteme-Ecole)  
+- 🏫 [**School Managment System**](https://github.com/Mostefaouim/Syteme-Ecole)  
   Another educational management system with a modular and clean architecture.
 
 - 📥 [**Download_YT_Videos_Python**](https://github.com/Mostefaouim/Download_YT_Videos_Python)  
