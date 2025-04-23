@@ -2,7 +2,7 @@
 
 ### 💻 Backend Developer
 
-I'm passionate about building practical web applications that solve real-world problems. I focus on backend development using PHP and enjoy automating tasks with Python. I've developed various solutions, from e-commerce systems to school management platforms.
+I'm passionate about building practical web applications that solve real-world problems. I focus on backend development using PHP , node js and enjoy automating tasks with Python. I've developed various solutions, from e-commerce systems to school management platforms.
 
 ---
 
@@ -14,8 +14,8 @@ I'm passionate about building practical web applications that solve real-world p
 - 🏫 [**School Managment System**](https://github.com/Mostefaouim/Syteme-Ecole)  
   Another educational management system with a modular and clean architecture.
 
-- 📥 [**Download_YT_Videos_Python**](https://github.com/Mostefaouim/Download_YT_Videos_Python)  
-  A Python script using `pytube` to download YouTube videos efficiently.
+- 📥 [**Lawdz**](https://lawdz.onrender.com)  
+  A legal platform powered by AI to help people in their legal advice, built with MERN stack
 
 ---
 
