@@ -2,7 +2,7 @@
 
 ### 💻 Backend Developer
 
-I'm passionate about building practical web applications that solve real-world problems. I focus on backend development using PHP , node js and enjoy automating tasks with Python. I've developed various solutions, from e-commerce systems to school management platforms.
+I'm passionate about building practical web applications that solve real-world problems. I focus on backend development using PHP , Node.js and enjoy automating tasks with Python. I've developed various solutions, from e-commerce systems to school management platforms.
 
 ---
 
@@ -21,9 +21,9 @@ I'm passionate about building practical web applications that solve real-world p
 
 ## 🧰 Tech Stack
 
-- **Languages**: PHP, Python, JavaScript, HTML, CSS, Node js
-- **Framworks**:Express js 
-- **Databases**: MySQL  
+- **Languages**: PHP, Python, JavaScript, HTML, CSS, Node.js
+- **Framworks**: Express js 
+- **Databases**: MySQL, Mongodb  
 - **Tools**: VS Code, Git, GitHub, XAMPP  
 - **Currently Exploring**: React, Docker
 
@@ -54,7 +54,7 @@ I'm passionate about building practical web applications that solve real-world p
 ## 📫 Let's Connect
 
 - 📧 Email: mohammedmostefaoui2@gmail.com
-- 🌐 LinkedIn: [https://www.linkedin.com/in/mostefaoui-mohammed-b20464225](https://linkedin.com)
+- 🌐 LinkedIn: [https://www.linkedin.com/in/mostefaouimohammed/](https://linkedin.com)
 
 ---
 
