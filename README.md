@@ -53,6 +53,7 @@ I'm passionate about building practical web applications that solve real-world p
 ## 📫 Let's Connect
 
 - 📧 Email: mohammedmostefaoui2@gmail.com
+- 🌐 LinkedIn: [https://www.linkedin.com/in/mostefaoui-mohammed-b20464225](https://linkedin.com)
 
 ---
 
