@@ -16,7 +16,8 @@ I'm passionate about building practical web applications that solve real-world p
 
 - 📥 [**Lawdz**](https://lawdz.onrender.com)  
   A legal platform powered by AI to help people in their legal advice, built with MERN stack
-
+- 🔎 [**IntelliSearch**](https://github.com/Mostefaouim/IntelliSearch)
+  This application allows you to load textual documents, index them using the TF-IDF (Term Frequency-Inverse Document Frequency) method, and perform searches within these        documents.
 ---
 
 ## 🧰 Tech Stack
