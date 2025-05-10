@@ -11,7 +11,7 @@ I'm passionate about building practical web applications that solve real-world p
 - 🛒 [**ShopNest**](https://github.com/Mostefaouim/ShopNest)  
   Is a modern e-commerce web application built using PHP, MySQL, and Supabase. It allows administrators to manage products and users to browse, add products to their shopping cart, and make purchases.
 
-- 🏫 [**EduSys**](https://github.com/Mostefaouim/EduSys)  
+- 🏫 [**Acadexis**](https://github.com/Mostefaouim/EduSys)  
   Is a web-based school management system developed in PHP. It facilitates the administration of educational institutions by providing tools to manage students, teachers,         courses, grades, and more.
 
 - 📥 [**Lawdz**](https://lawdz.onrender.com)  
