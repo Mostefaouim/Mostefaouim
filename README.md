@@ -11,8 +11,8 @@ I'm passionate about building practical web applications that solve real-world p
 - 🛒 [**OnlineShop**](https://github.com/Mostefaouim/OnlineShop)  
   E-commerce platform built with PHP & MySQL to manage products, orders, and users.
 
-- 🏫 [**School Managment System**](https://github.com/Mostefaouim/Syteme-Ecole)  
-  Another educational management system with a modular and clean architecture.
+- 🏫 [**EduSys**](https://github.com/Mostefaouim/Syteme-Ecole)  
+  is a web-based school management system developed in PHP. It facilitates the administration of educational institutions by providing tools to manage students, teachers,         courses, grades, and more.
 
 - 📥 [**Lawdz**](https://lawdz.onrender.com)  
   A legal platform powered by AI to help people in their legal advice, built with MERN stack
