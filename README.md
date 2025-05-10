@@ -16,7 +16,7 @@ I'm passionate about building practical web applications that solve real-world p
 
 - 📥 [**Lawdz**](https://lawdz.onrender.com)  
   Lawdz is a web application designed to provide legal services and tools, leveraging AI and MongoDB for advanced functionalities. The project is structured into a backend      and frontend, with a focus on scalability, security, and modularity.
-- 🔎 [**IntelliSearch**]([https://github.com/Mostefaouim/IntelliSearch](https://intelli-search.onrender.com/))
+- 🔎 [**IntelliSearch**](https://intelli-search.onrender.com/)
   This application allows you to load textual documents, index them using the TF-IDF (Term Frequency-Inverse Document Frequency) method, and perform searches within these        documents.
 ---
 
