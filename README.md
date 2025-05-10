@@ -8,11 +8,11 @@ I'm passionate about building practical web applications that solve real-world p
 
 ## 🚀 Featured Projects
 
-- 🛒 [**OnlineShop**](https://github.com/Mostefaouim/OnlineShop)  
-  E-commerce platform built with PHP & MySQL to manage products, orders, and users.
+- 🛒 [**ShopNest**](https://github.com/Mostefaouim/ShopNest)  
+  Is a modern e-commerce web application built using PHP, MySQL, and Supabase. It allows administrators to manage products and users to browse, add products to their shopping cart, and make purchases.
 
 - 🏫 [**EduSys**](https://github.com/Mostefaouim/EduSys)  
-  is a web-based school management system developed in PHP. It facilitates the administration of educational institutions by providing tools to manage students, teachers,         courses, grades, and more.
+  Is a web-based school management system developed in PHP. It facilitates the administration of educational institutions by providing tools to manage students, teachers,         courses, grades, and more.
 
 - 📥 [**Lawdz**](https://lawdz.onrender.com)  
   A legal platform powered by AI to help people in their legal advice, built with MERN stack
