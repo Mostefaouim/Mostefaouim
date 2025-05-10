@@ -8,7 +8,7 @@ I'm passionate about building practical web applications that solve real-world p
 
 ## 🚀 Featured Projects
 
-- 🛒 [**ShopNest**](https://github.com/Mostefaouim/ShopNest)  
+- 🛒 [**Shopora**](https://github.com/Mostefaouim/Shopora)  
   Is a modern e-commerce web application built using PHP, MySQL, and Supabase. It allows administrators to manage products and users to browse, add products to their shopping cart, and make purchases.
 
 - 🏫 [**Acadexis**](https://github.com/Mostefaouim/EduSys)  
