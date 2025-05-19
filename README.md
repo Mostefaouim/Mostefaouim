@@ -18,6 +18,10 @@ I'm passionate about building practical web applications that solve real-world p
   Lawdz is a web application designed to provide legal services and tools, leveraging AI and MongoDB for advanced functionalities. The project is structured into a backend      and frontend, with a focus on scalability, security, and modularity.
 - 🔎 [**IntelliSearch**](https://intelli-search.onrender.com/)
   This application allows you to load textual documents, index them using the TF-IDF (Term Frequency-Inverse Document Frequency) method, and perform searches within these        documents.
+  [**Crud APP PHP & Reactjs**](https://github.com/Mostefaouim/PHP_REACT)
+  This project is a full-stack user management application with a PHP backend and a React frontend. It allows you to list, add, update, and delete users stored in a MySQL       database.
+  This project is a tutorial demonstrating how to use PHP and React.js together in a single project.
+
 ---
 
 ## 🧰 Tech Stack
